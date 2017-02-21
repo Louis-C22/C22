@@ -31,7 +31,7 @@
 			<div class="navigation-top header-white">
 				<div class="wrap position-relative">
 
-					<div class="logo-wrapper">
+					<!-- <div class="logo-wrapper">
 						<a class="tcj-logo logo-light" href="<?php echo esc_url(home_url()); ?>">
 							<img width="280" src="<?php echo esc_url(home_url()); ?>/wp-content/themes/c22/assets/images/svg/c22_white-written.svg" />
 						</a>
@@ -40,7 +40,7 @@
 							<img width="280" src="<?php echo esc_url(home_url()); ?>/wp-content/themes/c22/assets/images/svg/c22_blue-written.svg" />
 						</a>
 
-					</div>
+					</div>-->
 
 					<!-- Support btn -->
 						
